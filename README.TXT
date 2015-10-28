@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Lab03 Repeating Actions
+PURPOSE OF PROJECT: A custom Jeroo sublcass that can deal with unknown distances and quantities.
+VERSION or DATE: CS 1114 Fall 2015
+AUTHORS: Mykayla Fernandes
+
