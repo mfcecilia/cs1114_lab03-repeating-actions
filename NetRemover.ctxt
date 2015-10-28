@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=NetRemover(int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ NetRemover\ object.\r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x-coordinate\ of\ the\ jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y-coordinate\ of\ the\ jeroo's\ location.\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ sees\ flowers\r\n\ picks\ flowers\r\n\ sees\ water\r\n\ avoids\ water\r\n\ finds\ nets\r\n\ disables\ nets\r\n\ if\ there\ are\ no\ flowers,\ stop\r\n
+comment2.params=
+comment2.target=void\ pickFlowers()
+comment2.text=\r\n\ pick\ up\ flowers\ when\ it\ sees\ them\r\n
+comment3.params=
+comment3.target=void\ disableNets()
+comment3.text=\r\n\ toss\ flowers\ and\ disable\ nets\ while\ it\ has\ flowers\r\n
+comment4.params=
+comment4.target=void\ navigateWater()
+comment4.text=\r\n\ Patrol\ around\ the\ perimeter\ of\ the\ island\ until\ it\ reaches\ nets\r\n
+numComments=5
